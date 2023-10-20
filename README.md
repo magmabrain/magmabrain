@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @magmabrain
 - 👀 I’m refreshing my skills around PHP/JS/CSS, etc...
-- 🌱 I’m currently learning Thunder distribution
-- 💞️ I’m looking to collaborate on Drupal
-- 📫 How to reach me : Github or Slack!
+- 👀 My latest endeavour is on helping designing and implementing a custom Payment Abstraction Platform
+- 🌱 I’m currently learning advanced Plant UML to streamline Business and Technical workflows
+- 💞️ I’m looking to collaborate on Drupal, Thunder distribution
+- 📫 How to reach me : Github or LinkedIn!
 
 <!---
 magmabrain/magmabrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
